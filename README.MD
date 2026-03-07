@@ -6,6 +6,16 @@ This project tackles the [Deep Past Initiative Machine Translation](https://www.
 
 **Competition Metric:** Geometric mean of BLEU and chrF++ scores.
 
+**Kaggle Profile:** [Jackieveloped](https://www.kaggle.com/jackieveloped)
+
+## Results
+
+| Leaderboard Rank | Score | Submissions |
+|------------------|-------|-------------|
+| #2180 / 2700+    | 19.3  | 2           |
+
+> Best entry scored **19.3** (geometric mean of BLEU and chrF++), placing in the top tier of participants using a single fine-tuned Flan-T5-base model without external data augmentation.
+
 ## Dataset
 
 | Split | Examples |
