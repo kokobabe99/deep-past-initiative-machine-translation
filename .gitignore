@@ -1,0 +1,11 @@
+.cladue
+data/
+logs/
+models/
+results/
+runs/
+temp/
+*.ckpt
+*.log
+*.pt
+*.pth
