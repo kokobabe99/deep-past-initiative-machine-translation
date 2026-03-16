@@ -12,9 +12,9 @@ This project tackles the [Deep Past Initiative Machine Translation](https://www.
 
 | Submission | Public Score | Model |
 |------------|-------------|-------|
-| Deep Past Initiative submission - SUB V1 | **29.3** | Flan-T5-base |
+| Deep Past Initiative submission - SUB V1 | **19.3** | Flan-T5-base |
 
-> Best entry scored **29.3** (geometric mean of BLEU and chrF++), using a single fine-tuned Flan-T5-base model without external data augmentation.
+> Best entry scored **19.3** (geometric mean of BLEU and chrF++), using a single fine-tuned Flan-T5-base model without external data augmentation.
 
 ![Kaggle Submission Score](doc/image.png)
 
